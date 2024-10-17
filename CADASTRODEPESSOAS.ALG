@@ -31,6 +31,7 @@ Inicio
    // Seção de Comandos, procedimento, funções, operadores, etc...
    enquanto genero <> "Z"  faca
       limpatela
+      escreval ("========CADASTRO DE PESSOAS=======")
       escreva ("Digite genero (M/F/X/Z para parar): ")
       leia (genero)
       escolha genero
